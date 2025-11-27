@@ -6,8 +6,6 @@ Computational Imaging is a vibrant and rapidly growing research area at the inte
 Our group is led by He Sun, Assistant Professor of Biomedical Engineering & Biophysics, and affiliated with the National Biomedical Imaging Center (NBIC) at Peking University. Please see our Contact page for more information or opportunities page for potential research positions.
 
 ---
-![Lab Banner](profile/astronomical_imaging.jpg)
-![Lab Banner](profile/biomedical_imaging.jpg)
 ## 🔬 Research Focus
 
 Our work is inherently interdisciplinary, combining expertise in:
