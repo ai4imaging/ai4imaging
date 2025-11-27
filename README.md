@@ -1,4 +1,4 @@
-# Computational Scientific Imaging Lab (CSI Lab) @ Peking University
+# PKU Computational Scientific Imaging Lab!
 
 **Welcome to the Computational Scientific Imaging Lab (CSI Lab) at Peking University!**
 
@@ -27,7 +27,7 @@ Here are some highlights of our ongoing research:
 | :--- | :--- | :--- |
 | **Learning Clean Diffusion Models from Corrupted Observations** | Generative Models | |
 | **Imaging a Molecule's 3D Dynamics with Electron Microscopy** | Molecular Imaging/Biophysics | |
-| **Diverse and High-Quality Text-to-3D Generation** | 3D Vision & Generative AI | [Paper](Link) • [Website](Link) • [Code](Link) |
+| **Diverse and High-Quality Text-to-3D Generation** | 3D Vision & Generative AI | [Paper]([Link](https://arxiv.org/abs/2407.01014)) • [Website](Link) • [Code](Link) |
 | **Distilling One-step Generation Model** | Efficient AI Models | [Paper](Link) |
 | **Imaging Galactic Center Black Hole** | Astrophysical Imaging | |
 | **Data Assimilation using Flow-based Generative Models** | Data Assimilation | [Paper](Link) • [Code](Link) |
