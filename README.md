@@ -6,4 +6,4 @@ Computational Imaging is a vibrant and rapidly growing research area at the inte
 ---
 ![Lab Banner](profile/ai4imaging.jpeg)
 
-We aim to facilitate future scientific imaging at extreme scales through cutting-edge computational methods.
+We aim to facilitate future scientific imaging at across scales through cutting-edge computational methods.
